@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class GuessTheWordGame {
+public class four {
 
     public static Random random = new Random();
     public static int userPoints = 0;
